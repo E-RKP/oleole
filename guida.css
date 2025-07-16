@@ -59,7 +59,7 @@ header{
   font-size: 4rem;
 }
 
-#sx, #dx{
+#sx, #dx, #azzera{
   border: 1px solid;
   border-radius: 10px;
   background-color: black;
